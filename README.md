@@ -53,4 +53,4 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kaihere14/kaihere14/output/github-contribution-grid-snake.gif" />
+![snake gif](https://github.com/kaihere14/kaihere14/blob/output/github-snake-dark.svg)
