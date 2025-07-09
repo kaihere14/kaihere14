@@ -14,7 +14,7 @@
 ###
 💻 Tech Stack
 
-<div align="left">
+<div align="left"><center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
@@ -25,8 +25,8 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="python logo" />
   <img width="30" />
-  
-##
+  </center>
+
 ###
 
 <div align="left">
