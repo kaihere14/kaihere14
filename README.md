@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/arman._.pvt14?igsh=bndmaTUxampoMWY0&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/user/kaii._.14" target="_blank">
+  <a href="https://discordapp.com/users/1212050219538325516" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:armanthakur200814@gmail.com" target="_blank">
