@@ -14,9 +14,10 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM2MjJoazRzaXBpZG1oZWtud3V3dTQ0OWIycjA1N3Bib3Z1ZHNjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" />
 
 ###
-💻 Tech Stack
+<hr>
 
-<div align="left">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
@@ -29,7 +30,7 @@
   <img width="30" />
 
 ###
-
+<hr>
 <div align="left">
   <a href="https://www.youtube.com/@Arman-ik2dc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
