@@ -62,6 +62,6 @@
 
 <hr>
 
-<h2 align = "left">🐍 Contribution Snake </h2>
+<h2 align = "left">🐍 Contribution Snake : </h2>
 
 ![snake gif](https://github.com/kaihere14/kaihere14/blob/output/github-snake-dark.svg)
