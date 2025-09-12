@@ -35,6 +35,40 @@
   height="50"
   alt="Tailwind CSS logo"
 />
+  
+ <!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB logo" />
+<img width="20" />
+
+<!-- Express -->
+<svg height="50" width="200" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Express.js logo">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="50%" font-family="Segoe UI, Roboto, Arial, sans-serif" 
+        font-size="28" font-weight="700" fill="#FFFFFF"
+        text-anchor="middle" dominant-baseline="central">
+    express
+  </text>
+</svg>
+<img width="20" />
+
+
+
+
+
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />
+<img width="20" />
+
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js logo" />
+<img width="20" />
+
+
+
+
+
+
+  
 </div>
 
 <hr>
