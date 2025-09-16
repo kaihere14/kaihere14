@@ -19,57 +19,35 @@
 
 <h3 align="left">💻 Tech Stack</h3>
 <br>
-<div align="center">
+
+<!-- Row 1 -->
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <img width="20" />
+</p>
+
+<!-- Row 2 -->
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
   <img width="20" />
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-  height="50"
-  alt="Tailwind CSS logo"
-/>
-  
- <!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB logo" />
-<img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS logo" />
+</p>
 
-<!-- Express -->
-<svg height="50" width="200" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Express.js logo">
-  <rect width="100%" height="100%" fill="transparent"/>
-  <text x="50%" y="50%" font-family="Segoe UI, Roboto, Arial, sans-serif" 
-        font-size="28" font-weight="700" fill="#FFFFFF"
-        text-anchor="middle" dominant-baseline="central">
-    express
-  </text>
-</svg>
-<img width="20" />
-
-
-
-
-
-<!-- React -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />
-<img width="20" />
-
-<!-- Node.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js logo" />
-<img width="20" />
-
-
-
-
-
-
-  
-</div>
+<!-- Row 3 -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js logo" />
+</p>
 
 <hr>
 <h3 align="left">🎧Contact Me</h3>
