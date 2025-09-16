@@ -20,61 +20,24 @@
 <h3 align="left">💻 Tech Stack</h3>
 <br>
 
-<table align="center" width="99%">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-      <br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-      <br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind"/>
-      <br>Tailwind
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
-      <br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express"/>
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-      <br>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+</div>
+
 
 <hr>
 <h3 align="left">🎧Contact Me</h3>
 <br>
-<div align="center">
+<div align="center" > 
   <a href="https://www.youtube.com/@Arman-ik2dc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
