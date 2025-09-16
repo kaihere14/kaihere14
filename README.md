@@ -20,7 +20,7 @@
 <h3 align="left">💻 Tech Stack</h3>
 <br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
 </div>
-
 
 <hr>
 <h3 align="left">🎧Contact Me</h3>
