@@ -20,54 +20,54 @@
 <h3 align="left">💻 Tech Stack</h3>
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
       <br>HTML5
     </td>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
       <br>CSS3
     </td>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
       <br>Java
     </td>
-    <td align="center" width="100">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
       <br>Python
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS"/>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind"/>
       <br>Tailwind
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
       <br>MongoDB
     </td>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express"/>
       <br>Express
     </td>
-    <td align="center" width="100">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
       <br>React
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
       <br>Node.js
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
