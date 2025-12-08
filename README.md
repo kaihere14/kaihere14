@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=300A52&height=200&section=header&text=Arman%20Thakur&fontSize=70&fontColor=ffffff&desc=Full-Stack%20Engineer%20|%20Himachal%20Pradesh%20🏔️&descAlign=50&descAlignY=65" alt="Header" width="100%"/>
-</div>
-
----
 
 <div align="center">
   <table border="0" width="95%">
