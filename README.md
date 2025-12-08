@@ -105,7 +105,7 @@
   <a href="https://www.youtube.com/@Arman-ik2dc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube" />
   </a>
-  <a href="https://www.instagram.com/arman._.pvt14?igsh=bndmaTUxampoMWY0&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/_mirenox/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram" />
   </a>
   <a href="https://discordapp.com/users/1212050219538325516" target="_blank">
