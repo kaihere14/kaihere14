@@ -53,11 +53,12 @@
 
 <h3 align="center">💾 Database & Infrastructure</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git,githubactions,bash" alt="Infra" />
   <br>
   <img src="https://img.shields.io/badge/BullMQ-A81B38?style=for-the-badge&logo=npm&logoColor=white" alt="BullMQ" />
   <img src="https://img.shields.io/badge/PM2_Process-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="R2" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CICD" />
 </div>
 
 <h3 align="center">🤖 AI & Integrations</h3>
