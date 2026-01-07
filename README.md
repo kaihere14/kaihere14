@@ -53,7 +53,7 @@
 
 <h3 align="center">💾 Database & Infrastructure</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git,githubactions,bash" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git,githubactions,bash,postgres" alt="Infra" />
   <br>
   <img src="https://img.shields.io/badge/BullMQ-A81B38?style=for-the-badge&logo=npm&logoColor=white" alt="BullMQ" />
   <img src="https://img.shields.io/badge/PM2_Process-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
