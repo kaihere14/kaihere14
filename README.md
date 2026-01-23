@@ -24,7 +24,7 @@
 <h2 align="center">🔥 Coding Streak</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaihere14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="full-stack"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kaihere14&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kaihere14&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
