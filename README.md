@@ -32,7 +32,7 @@
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,py,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,rust" alt="Languages" />
 </div>
 
 <h3 align="center">🎨 Frontend & UI</h3>
