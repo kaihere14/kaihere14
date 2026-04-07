@@ -2,7 +2,7 @@
   <table border="0" width="95%">
     <tr>
       <td width="65%" align="left" valign="center">
-        <h1>👋 Hi, I'm Arman.</h1>
+        <h1>👋 Hi, I'm Arman</h1>
         <p>
           I am a passionate developer who treats code like art and architecture. I don't just build websites; I engineer scalable systems. 
           <br><br>
