@@ -73,7 +73,6 @@
 ---
 
 <h2 align="center">🚀 Featured Builds</h2>
-
 <div align="center">
   <table border="0" width="90%">
     <thead>
@@ -85,43 +84,54 @@
     </thead>
     <tbody>
       <tr>
+        <td><b>DaemonDoc (AI README Generator)</b></td>
+        <td>
+          <code>MERN</code>
+          <code>Gemini AI/Groq AI (LLaMA 3.3)</code>
+          <code>Redis</code>
+          <code>BullMQ</code>
+          <code>GitHub Webhooks</code>
+          <code>AES-256-GCM</code>
+        </td>
+        <td>
+          AI-powered README generator that hooks into GitHub repos via webhooks,
+          queues async jobs with BullMQ, analyzes entire codebases using LLaMA 3.3 70B,
+          and auto-commits updated documentation on every push.
+          Built with a separate background worker process, HMAC-SHA256 webhook verification,
+          and AES-256-GCM encrypted token storage.
+        </td>
+      </tr>
+      <tr>
         <td><b>NovaDrive (AI Cloud Storage)</b></td>
         <td>
           <code>MERN</code>
           <code>Cloudflare R2</code>
           <code>Redis</code>
           <code>BullMQ</code>
+          <code>Gemini AI</code>
         </td>
         <td>
-          Personal cloud storage platform with chunked uploads, background workers,
-          metadata indexing, and AI-based auto-tagging & summaries.
-          Built for async processing and large file handling.
-        </td>
-      </tr>
-      <tr>
-        <td><b>Discord Cloud</b></td>
-        <td>
-          <code>Node.js</code>
-          <code>Discord.js</code>
-          <code>Streams</code>
-          <code>Cloud Storage</code>
-        </td>
-        <td>
-          Cloud file storage system powered by Discord.
-          Supports large file uploads via chunking & streaming,
-          automated message-based storage, and retrieval through a custom backend API.
+          Personal cloud storage platform with chunked large-file uploads,
+          background metadata indexing workers, and Gemini-powered auto-tagging & summaries.
+          Built for async processing with object storage via Cloudflare R2.
         </td>
       </tr>
       <tr>
-        <td><b>Custom Authoritative DNS Server</b></td>
+        <td><b>BreathClean (Health-First Route Planner)</b></td>
         <td>
-          <code>Node.js</code>
-          <code>dns2</code>
-          <code>Redis</code>
+          <code>Next.js 16</code>
+          <code>Express 5</code>
+          <code>Django</code>
+          <code>Pathway</code>
+          <code>Mapbox GL</code>
+          <code>Upstash Redis</code>
+          <code>MongoDB</code>
         </td>
         <td>
-          Low-level authoritative DNS server built from scratch with Redis-backed caching,
-          TTL handling, and protocol-level packet control.
+          Urban route planner that scores navigation paths by real-time AQI, weather,
+          and traffic — not just speed. 3-tier monorepo with a custom weighted health
+          scoring algorithm, a Django/Pathway microservice for batch computation,
+          a background 30-min route re-scorer, and geospatial DB indexing.
         </td>
       </tr>
     </tbody>
