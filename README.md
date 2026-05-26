@@ -19,16 +19,6 @@
   </table>
 </div>
 
----
-
-<h2 align="center">🔥 Coding Streak</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaihere14&theme=dark&hide_border=true&cache_seconds=1800" />
-  <img src="https://stats-two-rust.vercel.app/api/top-langs/?username=kaihere14&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
 <h2>⚡ The Tech Arsenal</h2>
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
