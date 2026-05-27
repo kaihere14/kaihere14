@@ -19,6 +19,10 @@
   </table>
 </div>
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaihere14&theme=dark&hide_border=true" alt="streak"
+</div>
+
 <h2>⚡ The Tech Arsenal</h2>
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
