@@ -24,14 +24,16 @@
   
 - **[DaemonContent](https://github.com/kaihere14/DaemonContent)** — Autonomous Instagram reel pipeline for @stackfeed.io: handles topic detection, AI script generation, voice synthesis, captioning, video rendering, and publishing end-to-end, running twice daily on cron.
 
-- **[BreathClean](https://github.com/kaihere14/BreathClean)** — Health-first route planner that factors real-time AQI and weather data into navigation, so commuters can pick the cleanest route instead of just the fastest.
-  
-- **[Title Forge](https://github.com/kaihere14/Title-Forge)** — AI-powered platform that generates SEO-friendly titles for YouTube videos and blog posts using Gemini and Perplexity.
+- **[Clura](https://github.com/kaihere14/clura)** — Self-hosted OAuth 2.0/OIDC identity provider with RS256-signed JWTs, a JWKS endpoint, and SSO support, built with Bun, Express 5, Next.js, and PostgreSQL/Drizzle.
   
 - **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** — Personal cloud storage platform with chunked uploads, background workers, and AI-based auto-tagging for large files.
+
+- **[BreathClean](https://github.com/kaihere14/BreathClean)** — Health-first route planner that factors real-time AQI and weather data into navigation, so commuters can pick the cleanest route instead of just the fastest.
   
 - **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** — A low-level authoritative DNS server built from scratch with Redis-backed caching and protocol-level packet control.
   
+- **[Title Forge](https://github.com/kaihere14/Title-Forge)** — AI-powered platform that generates SEO-friendly titles for YouTube videos and blog posts using Gemini and Perplexity.
+    
 - **Mathlyst** — Full-stack booking platform built for a Dubai-based maths tutor, with payment gateway integration and Google Sheets as the booking store *(freelance build)*.
   
 - **HireAI** — AI-powered hiring pipeline with voice interviews via the Web Speech API and Claude API — Top 18 Global Finalist at HackFest 2025.
