@@ -32,5 +32,5 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 #### currently
 
 - SoB 2026 @ Shopstr — p2pk Cashu escrow + 2-of-3 multisig dispute resolution
-- Going deep on Rust, targeting CCExtractor contribution + GSoC 2027
+- Going deep on Rust, targeting CCExtractor + AOSSIE-Org/PictoPy contributions
 - Available for internships from Aug 2026
