@@ -22,9 +22,10 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 #### selected work
 
 - **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** — AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
-- **[DaemonContent](https://github.com/kaihere14/DaemonContent)** — Autonomous AI reel generation and publishing platform.
-- **[Clura](https://github.com/kaihere14/clura)** — OAuth 2.0/OIDC identity provider with JWT auth and SSO.[[live](https://clura.armandev.space/)]
+- **[Envo](https://github.com/kaihere14/envo)** — Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them.[[live](https://envo.armandev.space/)]
 - **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** — AI-powered cloud storage and file management platform.[[live](https://www.novadrive.space/)]
+- **[Clura](https://github.com/kaihere14/clura)** — OAuth 2.0/OIDC identity provider with JWT auth and SSO.[[live](https://clura.armandev.space/)]
+- **[DaemonContent](https://github.com/kaihere14/DaemonContent)** — Autonomous AI reel generation and publishing platform.
 - **[BreathClean](https://github.com/kaihere14/BreathClean)** — Air-quality-aware navigation and route optimization platform.[[live](https://breathe.daemondoc.online/)]
 - **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** — High-performance DNS server with Redis-backed caching.[[live](https://daemondoc.online/)]
 ---
