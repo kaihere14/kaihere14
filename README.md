@@ -35,3 +35,7 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 - SoB 2026 @ Shopstr — p2pk Cashu escrow + 2-of-3 multisig dispute resolution
 - Going deep on Rust, targeting CCExtractor + AOSSIE-Org/PictoPy contributions
 - Available for internships from Aug 2026
+
+<p align="center">
+  <img src="https://count.getloli.com/@:kaihere14?theme=rule34" alt="kaihere14" />
+</p>
