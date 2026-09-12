@@ -30,6 +30,37 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 - **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** — High-performance DNS server with Redis-backed caching.[[live](https://daemondoc.online/)]
 ---
 
+<h2 align="center">Backed By</h2>
+<p align="center"><strong>Supported by some of the most respected developer programs in open source.</strong></p>
+
+<table cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" valign="top">
+
+<table width="100" cellpadding="2" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#F6F8FA" align="center">
+      <a href="https://www.sarvam.ai/startup-program">
+        <img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Sarvam AI">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<b>Sarvam AI</b><br>
+<sub>Startup Program</sub><br>
+<sub>
+<a href="https://www.sarvam.ai/startup-program">Website</a>
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 #### currently
 
 - SoB 2026 @ Shopstr — p2pk Cashu escrow + 2-of-3 multisig dispute resolution
