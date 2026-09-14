@@ -35,6 +35,26 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 
 <table cellpadding="0" cellspacing="0">
 <tr>
+  
+<td align="center" width="16.6%" valign="top">
+
+<table width="100" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.mintlify.com/oss-program">
+<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="22" alt="Mintlify">
+</a>
+</td>
+</tr>
+</table>
+
+<b>Mintlify OSS</b><br>
+<sub>
+<a href="https://lnkd.in/p/gq6wqAKe">LinkedIn</a> ·
+<a href="https://x.com/ArmanKiyotaka/status/2099483463007273336?s=20">X</a>
+</sub>
+
+</td>
 
 <td align="center" valign="top">
 
