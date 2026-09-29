@@ -23,6 +23,7 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 
 - **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** — AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
 - **[Envo](https://github.com/kaihere14/envo)** — Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them.[[live](https://envo.armandev.space/)]
+- **[Cled](https://github.com/kaihere14/cled)** — Open-source, cross-platform clipboard sync for text and images across Windows, macOS, and Linux (X11 and Wayland).[[live](https://cled.armandev.space/)]
 - **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** — AI-powered cloud storage and file management platform.[[live](https://www.novadrive.space/)]
 - **[Clura](https://github.com/kaihere14/clura)** — OAuth 2.0/OIDC identity provider with JWT auth and SSO.[[live](https://clura.armandev.space/)]
 - **[DaemonContent](https://github.com/kaihere14/DaemonContent)** — Autonomous AI reel generation and publishing platform.
