@@ -49,7 +49,8 @@ I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-
 </tr>
 </table>
 
-<b>Mintlify OSS</b><br>
+<b>Mintlify</b><br>
+<sub>OSS Program</sub><br>
 <sub>
 <a href="https://lnkd.in/p/gq6wqAKe">LinkedIn</a> ·
 <a href="https://x.com/ArmanKiyotaka/status/2099483463007273336?s=20">X</a>
