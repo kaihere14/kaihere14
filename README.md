@@ -16,7 +16,7 @@ I build **backend-heavy systems, protocol-level tools, and AI-native products**:
 
 ### Selected Work
 
-- **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** · AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
+- **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** · AI documentation engine that auto-updates READMEs on every push (75+ active users). [[live](https://daemondoc.online/)]
 - **[Envo](https://github.com/kaihere14/envo)** · Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them. [[live](https://envo.armandev.space/)]
 - **[Eizoki](https://github.com/kaihere14/eizoki)** · Curated catalogue for AI motion worth watching: discover the film, meet the creator, take the prompt with you. Next.js 16, React 19, Prisma. [[live](https://www.eizoki.xyz/)]
 - **[PortFly](https://github.com/kaihere14/PortFly)** · Native macOS menu bar app for finding which processes are listening on local ports and stopping them safely. SwiftUI, Liquid Glass. [[live](https://www.getportfly.tech/)]
