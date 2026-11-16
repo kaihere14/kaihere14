@@ -24,7 +24,7 @@ I build **backend-heavy systems, protocol-level tools, and AI-native products**:
 - **[Cled](https://github.com/kaihere14/cled)** · Open-source, cross-platform clipboard sync across Windows, macOS, and Linux (X11 and Wayland). [[live](https://cled.armandev.space/)]
 - **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** · AI-powered cloud storage and file management platform. [[live](https://www.novadrive.space/)]
 - **[Clura](https://github.com/kaihere14/clura)** · OAuth 2.0/OIDC identity provider with JWT auth and SSO. [[live](https://clura.armandev.space/)]
-- **[Wipey](https://github.com/kaihere14/wipey)** · Finds `node_modules`, `target`, `__pycache__` and other build junk cluttering your disk, shows the size of each, and only deletes what you tick. Rust.
+- **[Wipey](https://github.com/kaihere14/wipey)** · Rust CLI that scans a directory for any folders you name (build output, dependency caches, anything), shows how big each one is, and deletes only what you tick. Dry-run mode included.
 
 ### Open Source & Programs
 
