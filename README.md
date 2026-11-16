@@ -19,12 +19,11 @@ I build **backend-heavy systems, protocol-level tools, and AI-native products**:
 - **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** · AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
 - **[Envo](https://github.com/kaihere14/envo)** · Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them. [[live](https://envo.armandev.space/)]
 - **[Eizoki](https://github.com/kaihere14/eizoki)** · Curated catalogue for AI motion worth watching: discover the film, meet the creator, take the prompt with you. Next.js 16, React 19, Prisma. [[live](https://www.eizoki.xyz/)]
+- **[PortFly](https://github.com/kaihere14/PortFly)** · Native macOS menu bar app for finding which processes are listening on local ports and stopping them safely. SwiftUI, Liquid Glass. [[live](https://www.getportfly.tech/)]
+- **[Kado](https://github.com/kaihere14/Kado)** · Turn an X, GitHub or Instagram handle into a profile card worth posting. No sign-up, no design tool, nothing stored. [[live](https://kado.armandev.space/)]
 - **[Cled](https://github.com/kaihere14/cled)** · Open-source, cross-platform clipboard sync across Windows, macOS, and Linux (X11 and Wayland). [[live](https://cled.armandev.space/)]
 - **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** · AI-powered cloud storage and file management platform. [[live](https://www.novadrive.space/)]
 - **[Clura](https://github.com/kaihere14/clura)** · OAuth 2.0/OIDC identity provider with JWT auth and SSO. [[live](https://clura.armandev.space/)]
-- **[DaemonContent](https://github.com/kaihere14/DaemonContent)** · Autonomous AI reel generation and publishing platform.
-- **[BreathClean](https://github.com/kaihere14/BreathClean)** · Air-quality-aware navigation and route optimization platform. [[live](https://breathe.daemondoc.online/)]
-- **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** · High-performance DNS server with Redis-backed caching.
 
 ### Open Source & Programs
 
