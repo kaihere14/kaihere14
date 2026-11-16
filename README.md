@@ -1,94 +1,43 @@
-<h3 align="center">Arman Thakur</h3>
-
-<p align="center">
-<em>Full-stack · Bitcoin/Lightning · Systems · B.Tech CS @ Amity Mohali</em>
-</p>
-
-<p align="center">
-<a href="https://armandev.space">armandev.space</a> /
-<a href="https://x.com/ArmanKiyotaka">@ArmanKiyotaka</a> /
-<a href="mailto:armanthakur200814@gmail.com">email</a> /
-<a href="https://www.linkedin.com/in/arman-thakur-303b47367/">linkedin</a>
-</p>
-
----
-
-**Summer of Bitcoin 2026** intern at [Shopstr](https://shopstr.store) — building a p2pk Cashu escrow system for trustless Bitcoin commerce. 7 PRs merged.
-
-I lean toward backend-heavy problems: auth infrastructure, job queues, protocol-level work, and systems that behave correctly under failure. Currently going deep on Rust.
-
----
-
-#### selected work
-
-- **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** — AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
-- **[Envo](https://github.com/kaihere14/envo)** — Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them.[[live](https://envo.armandev.space/)]
-- **[Cled](https://github.com/kaihere14/cled)** — Open-source, cross-platform clipboard sync across Windows, macOS, and Linux (X11 and Wayland).[[live](https://cled.armandev.space/)]
-- **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** — AI-powered cloud storage and file management platform.[[live](https://www.novadrive.space/)]
-- **[Clura](https://github.com/kaihere14/clura)** — OAuth 2.0/OIDC identity provider with JWT auth and SSO.[[live](https://clura.armandev.space/)]
-- **[DaemonContent](https://github.com/kaihere14/DaemonContent)** — Autonomous AI reel generation and publishing platform.
-- **[BreathClean](https://github.com/kaihere14/BreathClean)** — Air-quality-aware navigation and route optimization platform.[[live](https://breathe.daemondoc.online/)]
-- **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** — High-performance DNS server with Redis-backed caching.[[live](https://daemondoc.online/)]
----
-
-<h2 align="center">Backed By</h2>
-<p align="center"><strong>Supported by some of the most respected developer programs in open source.</strong></p>
-
-<table cellpadding="0" cellspacing="0">
+<table width="100%">
 <tr>
-  
-<td align="center" width="16.6%" valign="top">
-
-<table width="100" cellpadding="2" cellspacing="0" border="0">
-<tr>
-<td bgcolor="#F6F8FA" align="center">
-<a href="https://www.mintlify.com/oss-program">
-<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="22" alt="Mintlify">
-</a>
+<td align="left">
+<strong>Arman Thakur · Full-stack Engineer.</strong> Bitcoin/Lightning, systems, B.Tech CS @ Amity Mohali.
+</td>
+<td align="right">
+<a href="https://armandev.space">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/arman-thakur-303b47367/">LinkedIn</a> ·
+<a href="https://x.com/ArmanKiyotaka">X</a> ·
+<a href="mailto:armanthakur200814@gmail.com">Email</a> ·
+<a href="https://www.eizoki.xyz/">Eizoki</a>
 </td>
 </tr>
 </table>
 
-<b>Mintlify</b><br>
-<sub>OSS Program</sub><br>
-<sub>
-<a href="https://lnkd.in/p/gq6wqAKe">LinkedIn</a> ·
-<a href="https://x.com/ArmanKiyotaka/status/2099483463007273336?s=20">X</a>
-</sub>
+I build **backend-heavy systems, protocol-level tools, and AI-native products**: auth infrastructure, job queues, Bitcoin/Nostr tooling, and systems that behave correctly under failure. Currently going deep on Rust.
 
-</td>
+### Open Source & Programs
 
-<td align="center" valign="top">
+- **[Eizoki](https://www.eizoki.xyz/)** · Creator & Maintainer · Hand-curated discovery platform for AI films, motion design & launch videos · [GitHub](https://github.com/kaihere14/eizoki)
+- **Summer of Bitcoin 2026 · [Shopstr](https://github.com/shopstr-eng/shopstr)** · p2pk Cashu escrow + 2-of-3 multisig dispute resolution · **[16 merged PRs](https://github.com/shopstr-eng/shopstr/pulls?q=is%3Apr+is%3Amerged+author%3Akaihere14)**
+- **[CCExtractor](https://github.com/CCExtractor/ccextractor)** · Contributor · **[8 merged PRs](https://github.com/CCExtractor/ccextractor/pulls?q=is%3Apr+is%3Amerged+author%3Akaihere14)**
+- **[35+ merged PRs](https://github.com/search?q=author%3Akaihere14+is%3Apr+is%3Amerged+-user%3Akaihere14&type=pullrequests)** across **9 external repos** · Shopstr, CCExtractor, Summer of Bitcoin, nyamp, breakscale & more
 
-<table width="100" cellpadding="2" cellspacing="0" border="0">
-  <tr>
-    <td bgcolor="#F6F8FA" align="center">
-      <a href="https://www.sarvam.ai/startup-program">
-        <img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Sarvam AI">
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" width="270" src="https://count.getloli.com/@:kaihere14?theme=rule34" alt="Profile views" />
 
-<b>Sarvam AI</b><br>
-<sub>Startup Program</sub><br>
-<sub>
-<a href="https://www.sarvam.ai/startup-program">Website</a>
-</sub>
+- **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** · Accepted for OSS support · [LinkedIn](https://lnkd.in/p/gq6wqAKe) · [X](https://x.com/ArmanKiyotaka/status/2099483463007273336?s=20)
+- **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** · Selected for Sarvam startup program
+- Available for internships from **Aug 2026**
 
-</td>
+<br clear="right" />
 
-</tr>
-</table>
+### Selected Work
 
----
-
-#### currently
-
-- SoB 2026 @ Shopstr — p2pk Cashu escrow + 2-of-3 multisig dispute resolution
-- Going deep on Rust, targeting CCExtractor + AOSSIE-Org/PictoPy contributions
-- Available for internships from Aug 2026
-
-<p align="center">
-  <img src="https://count.getloli.com/@:kaihere14?theme=rule34" alt="kaihere14" />
-</p>
+- **[Eizoki](https://github.com/kaihere14/eizoki)** · Curated catalogue for AI motion worth watching: discover the film, meet the creator, take the prompt with you. Next.js 16, React 19, Prisma. [[live](https://www.eizoki.xyz/)]
+- **[DaemonDoc](https://github.com/kaihere14/DaemonDoc)** · AI documentation engine that auto-updates READMEs on every push (50+ active users). [[live](https://daemondoc.online/)]
+- **[Envo](https://github.com/kaihere14/envo)** · Zero-trust CLI syncing .env secrets over Nostr, encrypted per-recipient so no server can ever decrypt them. [[live](https://envo.armandev.space/)]
+- **[Cled](https://github.com/kaihere14/cled)** · Open-source, cross-platform clipboard sync across Windows, macOS, and Linux (X11 and Wayland). [[live](https://cled.armandev.space/)]
+- **[NovaDrive](https://github.com/kaihere14/Nova_Drive)** · AI-powered cloud storage and file management platform. [[live](https://www.novadrive.space/)]
+- **[Clura](https://github.com/kaihere14/clura)** · OAuth 2.0/OIDC identity provider with JWT auth and SSO. [[live](https://clura.armandev.space/)]
+- **[DaemonContent](https://github.com/kaihere14/DaemonContent)** · Autonomous AI reel generation and publishing platform.
+- **[BreathClean](https://github.com/kaihere14/BreathClean)** · Air-quality-aware navigation and route optimization platform. [[live](https://breathe.daemondoc.online/)]
+- **[EdgeDNS](https://github.com/kaihere14/EdgeDNS)** · High-performance DNS server with Redis-backed caching.
