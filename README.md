@@ -36,6 +36,6 @@ I build **backend-heavy systems, protocol-level tools, and AI-native products**:
 
 - **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** · Accepted for OSS support · [LinkedIn](https://lnkd.in/p/gq6wqAKe) · [X](https://x.com/ArmanKiyotaka/status/2099483463007273336?s=20)
 - **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** · Selected for Sarvam startup program
-- Available for internships from **Aug 2026**
+- ***Available for internships***
 
 <br clear="right" />
