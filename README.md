@@ -5,7 +5,7 @@
 </td>
 <td align="right">
 <a href="https://armandev.space">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/arman-thakur-303b47367/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/armanthakur14">LinkedIn</a> ·
 <a href="https://x.com/ArmanKiyotaka">X</a> ·
 <a href="mailto:armanthakur200814@gmail.com">Email</a>
 </td>
